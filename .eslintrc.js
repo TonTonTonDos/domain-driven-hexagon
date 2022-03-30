@@ -1,4 +1,4 @@
-/**
+/**1
  * eslint config
  * https://github.com/Sairyss/backend-best-practices#static-code-analysis
  */
